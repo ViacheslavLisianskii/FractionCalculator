@@ -1,0 +1,7 @@
+c:\users\fier\documents\visual studio 2015\FractionCalculator\FractionCalculator\bin\Debug\FractionCalculator.dll
+c:\users\fier\documents\visual studio 2015\FractionCalculator\FractionCalculator\bin\Debug\FractionCalculator.pdb
+c:\users\fier\documents\visual studio 2015\FractionCalculator\FractionCalculator\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\fier\documents\visual studio 2015\FractionCalculator\FractionCalculator\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\fier\documents\visual studio 2015\FractionCalculator\FractionCalculator\obj\Debug\FractionCalculator.dll
+c:\users\fier\documents\visual studio 2015\FractionCalculator\FractionCalculator\obj\Debug\FractionCalculator.pdb
+c:\users\fier\documents\visual studio 2015\FractionCalculator\FractionCalculator\obj\Debug\FractionCalculator.csprojResolveAssemblyReference.cache
